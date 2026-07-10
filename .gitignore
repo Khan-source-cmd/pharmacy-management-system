@@ -1,0 +1,42 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment files
+.env
+config/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test files
+tests/__pycache__/
+test_*.py
+check_*.py
+add_*.py

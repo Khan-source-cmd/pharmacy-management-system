@@ -1,0 +1,16 @@
+tkinter
+sqlite3
+pandas
+openpyxl
+matplotlib
+bcrypt
+pillow
+reportlab
+tkinter
+sqlite3
+pandas
+openpyxl
+matplotlib
+bcrypt
+pillow
+reportlab
